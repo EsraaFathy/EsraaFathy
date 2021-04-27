@@ -3,7 +3,7 @@
 ### Hello, I'm Esraa Fathy👋
 #### I'm a Mobile developer 
 
-Mobile Native Developer with a good knowledge of android development in Java and Kotlin, and ios in swift and objective c, has good search skills.
+With a good knowledge of android development in Java and Kotlin, and ios in swift and objective c, has good search skills.
 Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 seeking a job as an Android Developer
 
