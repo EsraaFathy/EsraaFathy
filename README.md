@@ -9,7 +9,7 @@ seeking a job as an Android Developer
 
 - 🔭 I’m currently Study at ITI
 - 💬 Ask me about Mobile Development
-- 📫 How to reach me: via [![LinkedIn](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/linkedin%20(1).png)](https://www.linkedin.com/in/esraafathy1998/) or [![Gmail](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/gmail%20(1).png)](fesraa240@gmail.com)  
+- 📫 Reach me: via mail or [![LinkedIn](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/linkedin%20(1).png)](https://www.linkedin.com/in/esraafathy1998/)
 
 <!--
  - 🌱 I’m currently learning ... --
