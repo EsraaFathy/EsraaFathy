@@ -1,5 +1,4 @@
 
-<!--
 
 ### Hello, I'm Esraa Fathy👋
 #### I'm a Mobile developer 
@@ -10,9 +9,9 @@ seeking a job as an Android Developer
 
 - 🔭 I’m currently Study at ITI
 - 💬 Ask me about Mobile Development
-- 📫 How to reach me: via LinkedIn or Mail
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 424”>
-[![LinkedIn](https://drive.google.com/file/d/18z9t9YHRF9HN5bda0N7UuYK16xeZhwt_/view?usp=sharing)](https://www.linkedin.com/in/esraafathy1998/)
+- 📫 How to reach me: via [![LinkedIn](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/linkedin%20(1).png)](https://www.linkedin.com/in/esraafathy1998/) or [![Gmail](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/gmail%20(1).png)](fesraa240@gmail.com)  
+
+<!--
  - 🌱 I’m currently learning ... --
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
