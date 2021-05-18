@@ -15,5 +15,11 @@ seeking a job as an Android Developer
  - 🌱 I’m currently learning ... --
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- -->
+![Java](https://img.shields.io/badge/-Java-blue)
+![Kotlin](https://img.shields.io/badge/-kotlin-orange)
+![Java](https://img.shields.io/badge/-Java-blue)
+![Kotlin](https://img.shields.io/badge/-kotlin-orange)
+![Java](https://img.shields.io/badge/-Java-blue)
+![Kotlin](https://img.shields.io/badge/-kotlin-orange)
 
+ - -->
