@@ -30,7 +30,7 @@ seeking a job as an Android Developer
 
 
 ![C++](https://img.shields.io/badge/-C++-red)
-![C++](https://img.shields.io/badge/-C++-red)
+![C++](https://img.shields.io/badge/-C-red)
 ![xml](https://img.shields.io/badge/-xml-red)
 
 
