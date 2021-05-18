@@ -15,23 +15,24 @@ seeking a job as an Android Developer
 
 
 
-![Android Native](https://img.shields.io/badge/-Android%20Native-brightgreen)
-![Java](https://img.shields.io/badge/-Java-blue)
-![Kotlin](https://img.shields.io/badge/-kotlin-orange)
+![Android Native](https://img.shields.io/badge/-Android%20Native-09169F)
+![Java](https://img.shields.io/badge/-Java-082B6)
+![Kotlin](https://img.shields.io/badge/-kotlin-FBCEB1)
 
-![ios Native](https://img.shields.io/badge/-ios%20Native-brightgreen)
+![ios Native](https://img.shields.io/badge/-ios%20Native-09169F)
 ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-lightgrey)
-![Swift](https://img.shields.io/badge/-Swift-green)
+![Swift](https://img.shields.io/badge/-Swift-00A36C)
 
-![cross platfoem](https://img.shields.io/badge/-cross%20platfoem-brightgreen)
-![Dart](https://img.shields.io/badge/-Dart-yellow)
-![Flutter](https://img.shields.io/badge/-Flutter-brown)
+![cross platfoem](https://img.shields.io/badge/-cross%20platfoem-09169F)
+![Dart](https://img.shields.io/badge/-Dart-DAA06D)
+![Flutter](https://img.shields.io/badge/-Flutter-DAA06D)
 
 
 
-![C++](https://img.shields.io/badge/-C++-red)
-![C++](https://img.shields.io/badge/-C-red)
-![xml](https://img.shields.io/badge/-xml-red)
+![JavaFX](https://img.shields.io/badge/-JavaFX-fedcba)
+![xml](https://img.shields.io/badge/-xml-FB93B7)
+![C++](https://img.shields.io/badge/-C++-93B7FB)
+![C++](https://img.shields.io/badge/-C-D793FB)
 
 
 <!--
