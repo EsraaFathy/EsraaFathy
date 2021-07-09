@@ -7,9 +7,9 @@ With a good knowledge of android development in Java and Kotlin, and ios in swif
 Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 seeking a job as an Android Developer
 
-- 🔭 I’m currently Study at ITI
+- 🔭 I’m currently working at Fawry Integrated Systems
 - 💬 Ask me about Mobile Development
-- 📫 Reach me: via mail or [![LinkedIn](https://github.com/EsraaFathy/EsraaFathy/blob/main/images/linkedin%20(1).png)](https://www.linkedin.com/in/esraafathy1998/)
+- 📫 Reach me: via mail or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-09169F)](https://www.linkedin.com/in/esraafathy1998/)
 
 
 
